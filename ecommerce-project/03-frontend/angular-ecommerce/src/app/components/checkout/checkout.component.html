@@ -358,6 +358,17 @@
         <!--!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!-->
 
         <div formGroupName="creditCard" class="form-area">
+          <h3>Crdit or Debit Card</h3>
+          <div id="card-element"></div>
+
+          <div
+            id="card-errors"
+            class="displayError.textConent!=='': 'alert alert-danger mt-1'"
+          ></div>
+        </div>
+
+        <!--
+        <div formGroupName="creditCard" class="form-area">
           <h3>Credit Card</h3>
 
           <div class="row">
@@ -490,7 +501,7 @@
             </div>
           </div>
         </div>
-
+        -->
         <div class="form-area">
           <h3>Review Your Order</h3>
           <p>Total Quantity: {{ totalQuantity }}</p>
