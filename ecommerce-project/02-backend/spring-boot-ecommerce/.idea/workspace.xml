@@ -8,6 +8,14 @@
       <change beforePath="$PROJECT_DIR$/../../../angular-training/my-first-angular-project" beforeDir="false" afterPath="$PROJECT_DIR$/../../../angular-training/my-first-angular-project" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../angular-training/sales-project" beforeDir="false" afterPath="$PROJECT_DIR$/../../../angular-training/sales-project" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/luv2code/ecommerce/config/MyDataRestConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/luv2code/ecommerce/config/MyDataRestConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/luv2code/ecommerce/dao/CountryRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/luv2code/ecommerce/dao/CountryRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/luv2code/ecommerce/dao/CustomerRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/luv2code/ecommerce/dao/CustomerRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/luv2code/ecommerce/dao/ProductCategoryRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/luv2code/ecommerce/dao/ProductCategoryRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/luv2code/ecommerce/dao/ProductRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/luv2code/ecommerce/dao/ProductRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/luv2code/ecommerce/dao/StateRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/luv2code/ecommerce/dao/StateRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/luv2code/ecommerce/service/CheckoutServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/luv2code/ecommerce/service/CheckoutServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,7 +111,7 @@
       <workItem from="1738787143878" duration="7155000" />
       <workItem from="1738950692234" duration="886000" />
       <workItem from="1739199332515" duration="5860000" />
-      <workItem from="1739212963068" duration="1084000" />
+      <workItem from="1739212963068" duration="2903000" />
     </task>
     <servers />
   </component>
